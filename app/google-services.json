@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5622307403",
+    "firebase_url": "https://courgette-1ead0.firebaseio.com",
+    "project_id": "courgette-1ead0",
+    "storage_bucket": "courgette-1ead0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5622307403:android:01b906b675c79fab",
+        "android_client_info": {
+          "package_name": "com.dw.courgette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5622307403-pi0a9m1mtvud8oprssp9oo82k7f4p4at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dw.courgette",
+            "certificate_hash": "ef307f64b4d2a846d509b259fa36e39b2d1c1899"
+          }
+        },
+        {
+          "client_id": "5622307403-u3aqu3mh333vehmgj277o59gkdcq7b4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzMSAQd50E5sPFHHH_NlqkJUMTk51oCU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5622307403-u3aqu3mh333vehmgj277o59gkdcq7b4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
